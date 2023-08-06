@@ -11,6 +11,8 @@ This repository stores solutions to various programming tasks from resources suc
 
 ## License
 
+[MIT](./LICENSE) © [Ivan Kovach](https://github.com/Qu1nel/)
+
 This Project Qu1nel.LeetCode-like in distributive under the **[MIT License](./LICENSE)**, and it also uses those codes that are
 distributed under the **[MIT License](./LICENSE)**.
 
