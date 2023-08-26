@@ -9,6 +9,7 @@ This repository stores solutions to various programming tasks from resources suc
 
 - [Moves of chess pieces](./Chess)
   - [Knight's move](./Chess/Knight's%20move)
+  - [Kings' move](./Chess/King's%20move)
 
 ## Developers
 
