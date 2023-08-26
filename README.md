@@ -5,6 +5,11 @@
 LeetCode-like Problems' Solutions (or not)\
 This repository stores solutions to various programming tasks from resources such as `leetcode`, `codewars` and many others.
 
+# Contents
+
+- [Moves of chess pieces](./Chess)
+  - [Knight's move](./Chess/Knight's%20move)
+
 ## Developers
 
 - [Qu1nel](https://github.com/Qu1nel)
@@ -15,4 +20,3 @@ This repository stores solutions to various programming tasks from resources suc
 
 This Project Qu1nel.LeetCode-like in distributive under the **[MIT License](./LICENSE)**, and it also uses those codes that are
 distributed under the **[MIT License](./LICENSE)**.
-
