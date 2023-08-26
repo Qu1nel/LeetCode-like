@@ -30,4 +30,4 @@ The program should output the text according to the problem condition.
 
 </div>
 
-[Test data](./tests)
+[Test data](./tests.txt)
