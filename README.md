@@ -11,6 +11,8 @@ This repository stores solutions to various programming tasks from resources suc
   - [Knight's move](./Chess/Knight's%20move)
   - [Kings' move](./Chess/King's%20move)
   - [Rook' move](./Chess/Rook's%20move)
+- [Matrix](./Matrix)
+  - [Snail traversal array](./Matrix/Spiral-traversal-array)
 
 ## Developers
 
