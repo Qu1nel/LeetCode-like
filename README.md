@@ -13,6 +13,7 @@ This repository stores solutions to various programming tasks from resources suc
   - [Rook' move](./Chess/Rook's%20move)
 - [Matrix](./Matrix)
   - [Snail traversal array](./Matrix/Spiral-traversal-array)
+  - [Matrix transponse](./Matrix/Matrix-transpose)
 
 ## Developers
 
