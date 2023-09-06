@@ -14,6 +14,7 @@ This repository stores solutions to various programming tasks from resources suc
 - [Matrix](./Matrix)
   - [Snail traversal array](./Matrix/Spiral-traversal-array)
   - [Matrix transponse](./Matrix/Matrix-transpose)
+  - [Multiplication two matrix](./Matrix/Multiplication-two-matrices)
 
 ## Developers
 
