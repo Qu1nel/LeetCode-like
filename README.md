@@ -1,4 +1,5 @@
 <img src="https://img.shields.io/github/license/Qu1nel/LeetCode-like?color=g" alt="License" />
+<img src="https://img.shields.io/github/languages/count/Qu1nel/LeetCode-like?color=purple" alt="Count of Languages" />
 
 # About LeetCode-like
 
@@ -7,14 +8,25 @@ This repository stores solutions to various programming tasks from resources suc
 
 # Contents
 
-- [Moves of chess pieces](./Chess)
+- [LeetCode](./LeetCode)
+- [CodeWars](./CodeWars)
+- [Chess](./Chess)
   - [Knight's move](./Chess/Knight's%20move)
+  - [Queen' move](./Chess/Queen's%20move)
   - [Kings' move](./Chess/King's%20move)
   - [Rook' move](./Chess/Rook's%20move)
+  - [Bishop' move](./Chess/Bishop's%20move)
+  - [The chessboard](./Chess/ChessBoard)
 - [Matrix](./Matrix)
   - [Snail traversal array](./Matrix/Spiral-traversal-array)
   - [Matrix transponse](./Matrix/Matrix-transpose)
   - [Multiplication two matrix](./Matrix/Multiplication-two-matrices)
+- [Other](./Other)
+  - [Flatten dict](./Other/Flatten-dict)
+  - [Reverse number](./Other/Reverse-number)
+  - [Arithmetic progression](./Other/Arithmetic-progression)
+  - [Pascal](./Other/Pascal)
+
 
 ## Developers
 
